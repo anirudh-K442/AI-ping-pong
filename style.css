@@ -1,0 +1,13 @@
+.heading {
+    text-align: initial;
+    width: 100%;
+}
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border-color: blueviolet;
+    border-radius: 30px;
+}
